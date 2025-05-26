@@ -10,4 +10,4 @@ This project implements a **feedforward neural network** from scratch using **Nu
 
 - **Input Layer**: 13 features (from the Wine dataset)  
 - **Hidden Layer**: 1 hidden layer with 16 neurons and **ReLU** activation  
-- **Output Layer**: 3 output classes with **Softmax** activation
+- **Output Layer**: 6 output classes with **Softmax** activation
